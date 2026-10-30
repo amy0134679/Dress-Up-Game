@@ -10,7 +10,11 @@
 
 <br /><br />
 
-<a href="YOUR-LIVE-SITE-URL"><b>🌸 Play it on my portfolio</b></a>
+<a href="(https://amy-chen-portfolio.vercel.app/)"><b>🌸 Play it on my portfolio</b></a>
+
+
+https://github.com/user-attachments/assets/2cdc0e52-c317-46da-989b-76d6a64450c1
+
 
 </div>
 
